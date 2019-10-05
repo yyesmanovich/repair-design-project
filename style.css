@@ -1,0 +1,11 @@
+* {
+  max-width: 1440px;
+  min-width: 375px;
+}
+
+@media screen and (max-width: 375px) {
+  footer {
+    display: none;
+  }
+}
+/*# sourceMappingURL=style.css.map */
